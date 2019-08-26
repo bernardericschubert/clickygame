@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Captain America",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/CapAmerica-EndgameProfile.jpg/revision/latest/scale-to-width-down/620?cb=20190423175339",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Iron Man",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/620?cb=20190423175213",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Black Widow",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/9/9a/BlackWidow-EndgameProfile.jpg/revision/latest/scale-to-width-down/620?cb=20190423174842",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Thor",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/Thor-EndgameProfile.jpg/revision/latest/scale-to-width-down/620?cb=20190423174911",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Hawkeye",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/HawkeyeRonin-EndgameProfile.jpg/revision/latest/scale-to-width-down/620?cb=20190423175147",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Hulk",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/ProfHulkAvengersEndgamelicensingart001.jpg/revision/latest?cb=20190506122658",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Spider-Man",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/Spider-Man_FFH_Profile.jpg/revision/latest/scale-to-width-down/620?cb=20190326110737",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Nick Fury",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/0a/Nick_Fury_Textless_AoU_Poster.jpg/revision/latest/scale-to-width-down/620?cb=20161119163035",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Captain Marvel",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/f/fe/CapMarvel-EndgameProfile.jpeg/revision/latest/scale-to-width-down/620?cb=20190423175247",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Scarlet Witch",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/39/Scarlet_Witch_AIW_Profile.jpg/revision/latest/scale-to-width-down/620?cb=20180518212455",
+        "clicked": false
+    }
+]

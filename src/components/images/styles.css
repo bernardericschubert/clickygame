@@ -1,0 +1,9 @@
+img {
+  height: auto;
+  max-width: 200px;
+  padding: 10px;
+}
+
+#imgRow {
+  display: inline-block;
+}
