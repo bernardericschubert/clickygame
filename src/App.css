@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+#image-area{
+  height: 100%;
+  width: 70%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}

@@ -1,9 +1,23 @@
 img {
   height: auto;
-  max-width: 200px;
-  padding: 10px;
+  max-width: 150px;
 }
 
-#imgRow {
-  display: inline-block;
+.card {
+  border-radius: 2px;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  max-width: 150px;
+  text-align: center;
+}
+
+.card:hover {
+  box-shadow: 4px 4px 10px #0B132B;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.card:active {
+  transform: translate(1px, 1px);
 }
